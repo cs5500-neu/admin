@@ -1,5 +1,30 @@
 # CS 5500: Foundations of Software Engineering
 
+## Course Information
+
+**Course Number**: CS5500 Foundations of Software Engineering
+
+**Piazza**: [Forum Board](https://piazza.com/northeastern/fall2023/cs550003fl23sea/home), [Signup Link](https://piazza.com/northeastern/fall2023/cs550003fl23sea)
+* Use piazza instead of e-mail for all course related matters
+* This way all course staff can answer questions
+* Class as a whole can participate and learn in discussions
+* Code also formats better nicely pasted in
+* (Linking your github is also easy for private posts)
+
+## Instructors
+
+**Instructor**: Mark Bonicillo
+**E-mail**: bonicillom@northeastern.edu
+
+**Office Hours**: By appointment; please request via Piazza
+
+**Teaching Assistants**:
+
+[Shijie Xie](mailto:xie.shi@northeastern.edu)
+[Qingqing Sun](mailto:sun.qingq@northeastern.edu)
+[Jiayi Lu](mailto:lu.jiayi2@northeastern.edu)
+
+TA Hours and location listed on Piazza Under Resources/Staff
 
 ## Course Description
 
