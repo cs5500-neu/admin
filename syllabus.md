@@ -3,6 +3,7 @@
 ## Course Information
 
 **Course Number**: CS5500 Foundations of Software Engineering
+**Location**: 225 Terry Ave, Room 210, Seattle WA
 
 **Piazza**: [Forum Board](https://piazza.com/northeastern/fall2023/cs550003fl23sea/home), [Signup Link](https://piazza.com/northeastern/fall2023/cs550003fl23sea)
 * Use piazza instead of e-mail for all course related matters
