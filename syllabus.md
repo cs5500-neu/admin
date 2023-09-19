@@ -149,11 +149,7 @@ There are no extra credit assignments just for you. I reserve the right to add p
 
 I reserve the right to modify the grading scale in your favor if you show exemplary proficiency in any of the catagories. I will never modify the scale to lower a students grade.
 
-In class work cannot be made up at a later date unless otherwise arranged with the instructor well in advance.
-
 Course work completed after the date cannot be graded, as solutions will have been discussed (this includes if taking this course for an Incomplete).
-
-Once again, "in-class" work must be completed in-class unless there is a documented emergency or you have prearranged with the instructor a make-up well in advance.
 
 Lab time is meant for helping students with the lab, not completing homework. I have to prioritize lab first, then can answer homework questions.
 
