@@ -93,7 +93,7 @@ We Care is another university resource for helping tackle challenges you may be 
 
 ## Lateness and Attendance Policy
 
-Students who do well in this course tend to show up to the course consistently, participate, and engage with their peers. Come to class, come on time, and build good habits! In-Class activities that are not attended are a zero.
+Students who do well in this course tend to show up to the course consistently, participate, and engage with their peers. Come to class, come on time, and build good habits!
 
 ## Wellness
 
