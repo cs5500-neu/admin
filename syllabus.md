@@ -103,7 +103,8 @@ Northeastern Univerity provides resources for student healthcare and general wel
 
 Please find below the grading distribution that will be used for this course. You will find the grade you earn in this course on Canvas.
 
-In-Class Labs: (20%) (Each equally weighted)
+In-Class Labs: (10%) (Each equally weighted)
+Book Discussion Posts: (10%) (Each equally weighted)
 Labs are due before class of the following week.
 
 Assignments: (20%) (Each equally weighted)
