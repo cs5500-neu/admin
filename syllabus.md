@@ -17,7 +17,7 @@
 **Instructor**: Mark Bonicillo
 
 **E-mail**: bonicillom@northeastern.edu
-**Github Handle**: bonicim
+ * Github Handle: bonicim
 
 **Office Hours**: By appointment; please request via Piazza
 
