@@ -17,14 +17,17 @@
 **Instructor**: Mark Bonicillo
 
 **E-mail**: bonicillom@northeastern.edu
+**Github Handle**: bonicim
 
 **Office Hours**: By appointment; please request via Piazza
 
 **Teaching Assistants**:
 
-* [Shijie Xie](mailto:xie.shi@northeastern.edu) xie.shi@northeastern.edu 
+* [Shijie Xie](mailto:xie.shi@northeastern.edu) xie.shi@northeastern.edu
+  * Github Handle: shijiexie   
 * [Qingqing Sun](mailto:sun.qingq@northeastern.edu) sun.qingq@northeastern.edu 
 * [Jiayi Lu](mailto:lu.jiayi2@northeastern.edu) lu.jiayi2@northeastern.edu
+  * Github Handle: Joyce-JiayiLu   
 
 TA Hours and location listed on Piazza Under Resources/Staff
 
