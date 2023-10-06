@@ -22,9 +22,9 @@
 
 **Teaching Assistants**:
 
-* [Shijie Xie](mailto:xie.shi@northeastern.edu)
-* [Qingqing Sun](mailto:sun.qingq@northeastern.edu)
-* [Jiayi Lu](mailto:lu.jiayi2@northeastern.edu)
+* [Shijie Xie](mailto:xie.shi@northeastern.edu) xie.shi@northeastern.edu 
+* [Qingqing Sun](mailto:sun.qingq@northeastern.edu) sun.qingq@northeastern.edu 
+* [Jiayi Lu](mailto:lu.jiayi2@northeastern.edu) lu.jiayi2@northeastern.edu
 
 TA Hours and location listed on Piazza Under Resources/Staff
 
