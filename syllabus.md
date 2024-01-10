@@ -3,9 +3,9 @@
 ## Course Information
 
 **Course Number**: CS5500 Foundations of Software Engineering
-**Location**: 225 Terry Ave, Room 210, Seattle WA
+**Location**: 401 Terry Ave, Room 106, Seattle WA
 
-**Piazza**: [Forum Board](https://piazza.com/northeastern/fall2023/cs550003fl23sea/home), [Signup Link](https://piazza.com/northeastern/fall2023/cs550003fl23sea)
+**Piazza**: [Forum Board](https://piazza.com/northeastern/fall2023/cs550003fl23sea/home), [Signup Link](https://piazza.com/class/lr7wtnxfe50h4/)
 * Use piazza instead of e-mail for all course related matters
 * This way all course staff can answer questions
 * Class as a whole can participate and learn in discussions
@@ -23,12 +23,10 @@
 
 **Teaching Assistants**:
 
-* [Shijie Xie](mailto:xie.shi@northeastern.edu) xie.shi@northeastern.edu
-  * Github Handle: shijiexie   
-* [Qingqing Sun](mailto:sun.qingq@northeastern.edu) sun.qingq@northeastern.edu 
-* [Jiayi Lu](mailto:lu.jiayi2@northeastern.edu) lu.jiayi2@northeastern.edu
-  * Github Handle: Joyce-JiayiLu   
-
+* [Janhavi Malusare](mailto:malusare.j@northeastern.edu) malusare.j@northeastern.edu
+* [Peter Tsanev](mailto:tsanev.p@northeastern.edu) tsanev.p@northeastern.edu 
+* [Siyu Bai](mailto:bai.si@northeastern.edu) bai.si@northeastern.edu
+  
 TA Hours and location listed on Piazza Under Resources/Staff
 
 ## Course Description
@@ -49,7 +47,7 @@ By the end of this course, you will:
 
 ## Resources
 
-All resources can be access for free using your academic email. Northeastern Libraries provides free access to [O'Reilly Online](https://www.oreilly.com/library-access/). Click 
+All resources can be accessed for free using your academic email. Northeastern Libraries provides free access to [O'Reilly Online](https://www.oreilly.com/library-access/). Click 
 
 All required and recommended textbooks can be acccessed using [this playlist](https://learning.oreilly.com/playlists/3fe75854-f930-45ce-999c-b37110896161). Or you can just search for the title on O'Reilly Online.
 
@@ -62,7 +60,6 @@ The following are recommended textbooks:
 * The Pragmatic Programmer
 * Clean Code
 * Refactoring 
-* Agile Software Development (Alistair Cockburn)
 * Mythical Man-Month
 
 
@@ -106,11 +103,13 @@ Northeastern Univerity provides resources for student healthcare and general wel
 
 Please find below the grading distribution that will be used for this course. You will find the grade you earn in this course on Canvas.
 
-In-Class Labs: (10%) (Each equally weighted) 
+Participation: (10%) 
+
+Labs: (10%) (Each equally weighted) 
 
 Book Discussion Posts: (10%) (Each equally weighted)
 
-Assignments: (20%) (Each equally weighted)
+Assignments: (10%) (Each equally weighted)
 
 Final Project: (60%)
 
