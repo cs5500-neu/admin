@@ -66,7 +66,7 @@ The following are recommended textbooks:
 
 ## Prerequisites
 
-Graduate level CS 5010 Minimum Grade of C
+Graduate level CS 5004 Minimum Grade of C
 
 ## Academic Integrity and Non-Discrimination
 
