@@ -26,7 +26,6 @@
 * [Janhavi Malusare](mailto:malusare.j@northeastern.edu) malusare.j@northeastern.edu
 * [Peter Tsanev](mailto:tsanev.p@northeastern.edu) tsanev.p@northeastern.edu 
 * [Siyu Bai](mailto:bai.si@northeastern.edu) bai.si@northeastern.edu
-* [qingqing Sun](mailto:sun.qingq@northeastern.edu) sun.qingq@northeastern.edu
   
 TA Hours and location listed on Piazza Under Resources/Staff
 
