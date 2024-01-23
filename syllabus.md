@@ -23,8 +23,7 @@
 
 **Teaching Assistants**:
 
-* [Janhavi Malusare](mailto:malusare.j@northeastern.edu) malusare.j@northeastern.edu
-* [Peter Tsanev](mailto:tsanev.p@northeastern.edu) tsanev.p@northeastern.edu 
+* [Janhavi Malusare](mailto:malusare.j@northeastern.edu) malusare.j@northeastern.edu 
 * [Siyu Bai](mailto:bai.si@northeastern.edu) bai.si@northeastern.edu
   
 TA Hours and location listed on Piazza Under Resources/Staff
