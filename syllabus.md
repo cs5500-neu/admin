@@ -104,11 +104,9 @@ Please find below the grading distribution that will be used for this course. Yo
 
 Participation: (10%) 
 
-Labs: (10%) (Each equally weighted) 
+Labs: (15%) (Each equally weighted) 
 
-Book Discussion Posts: (10%) (Each equally weighted)
-
-Assignments: (10%) (Each equally weighted)
+Assignments: (15%) (Each equally weighted)
 
 Final Project: (60%)
 
