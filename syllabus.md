@@ -1,16 +1,17 @@
-# CS 5500: Foundations of Software Engineering
-
-## Course Information
+# Course Information
 
 **Course Number**: CS5500 Foundations of Software Engineering
-**Location**: 401 Terry Ave, Room 106, Seattle WA
 
-**Piazza**: [Forum Board](https://piazza.com/class/lr7wtnxfe50h4/), [Signup Link](https://piazza.com/class/lr7wtnxfe50h4/)
-* Use piazza instead of e-mail for all course related matters
+**Location**: 225 Terry Ave, Room 210, Seattle WA
+
+**Time**: Tuesdays, 6pm - 9:20pm unless otherwise noted
+
+**Piazza**: [Forum Board](https://piazza.com/class/m0uoa1173ue4o5/), [Signup Link](https://piazza.com/northeastern/fall2024/cs550010fall24sea)
+* Use Piazza instead of e-mail for all course related matters
 * This way all course staff can answer questions
 * Class as a whole can participate and learn in discussions
 * Code also formats better nicely pasted in
-* (Linking your github is also easy for private posts)
+* (Linking your GitHub is also easy for private posts)
 
 ## Instructors
 
@@ -23,14 +24,15 @@
 
 **Teaching Assistants**:
 
-* [Janhavi Malusare](mailto:malusare.j@northeastern.edu) malusare.j@northeastern.edu 
-* [Siyu Bai](mailto:bai.si@northeastern.edu) bai.si@northeastern.edu
+* Tu Lu lu.tu@northeastern.edu 
+* Huiru Wang yang.huir@northeastern.edu
+* Qiuying Zhuo zhuo.qi@northeastern.edu
   
 TA Hours and location listed on Piazza Under Resources/Staff
 
 ## Course Description
 
-This is a project-based class where we will spend the first few weeks of the semester learning software engineering best practices. Then you will work as a group to develop a large project.
+This course focuses on the fundamentals of developing software. We will learn how to develop software from start to finish through the framework of the software development lifecycle. This course is team project-based and much of the learning will be done through developing software as a team. We will work on an existing codebase (legacy code).
 
 **Registrar Description**: Covers the foundations of software engineering, including software development life cycle models (e.g., waterfall, spiral, agile); requirements analysis; user-centered design; software design principles and patterns; testing (functional testing, structural testing, testing strategies); code refactoring and debugging; software architecture and design; and integration and deployment. Includes a course project where some of the software engineering methods (from requirements analysis to testing) are applied in a team-based setting. Requires admission to MS program or completion of all transition courses.
 
@@ -39,28 +41,18 @@ This is a project-based class where we will spend the first few weeks of the sem
 By the end of this course, you will:
 
 * Learn about the Software Development Lifecycle.
-* Learn about effective design patterns (and antipatterns).
+* Learn about effective design patterns and antipatterns.
 * Gain experience building larger software.
 * Gain experience writing tests.
-* Learn a few specific tools(e.g. git) that will be relevant to your professional career.
+* Learn a few specific tools (e.g. git) that will be relevant to your professional career.
 
 ## Resources
 
 All resources can be accessed for free using your academic email. Northeastern Libraries provides free access to [O'Reilly Online](https://www.oreilly.com/library-access/). Click 
 
-All required and recommended textbooks can be acccessed using [this playlist](https://learning.oreilly.com/playlists/3fe75854-f930-45ce-999c-b37110896161). Or you can just search for the title on O'Reilly Online.
+All required and recommended textbooks can be acccessed using [this playlist](https://learning.oreilly.com/playlists/fe125c06-2637-4b38-8e08-fa30895b46f5). Or you can just search for the title on O'Reilly Online.
 
-The following are required textbooks:
-
-* The Phoenix Project
-
-The following are recommended textbooks:
-
-* The Pragmatic Programmer
-* Clean Code
-* Refactoring 
-* Mythical Man-Month
-
+Most readings will focus on the following books: The Pragmatic Progammer, Code Complete, and Working Effectively with Legacy Code.
 
 ## Prerequisites
 
@@ -88,6 +80,7 @@ E-mailing me asking for extensions just because is unfortunately not fair to you
 Part of what makes Northeastern University unique, is our diverse cohort of students, faculty, and staff. In order to support this, Northeastern is committed to providing equal access and support to all qualified students through the provision of reasonable accommodations so that each student may fully participate in the University experience.
 
 If you have a disability that requires accommodations, please contact the Student Accessibility Services office at DRC@northeastern.edu or (617) 373-2675 to make an appointment with the Disability Resource Center representatives in 20 Dodge Hall to determine appropriate accommodations.
+
 We Care is another university resource for helping tackle challenges you may be facing. Asking for help is okay!
 
 ## Lateness and Attendance Policy
