@@ -166,4 +166,5 @@ No Facebook, no cell phones. Not only does it distract you, it distracts others!
 |   | [11]()                                             | Software Architecture                                  |             |     |                 |         |                               |
 |   | [12]()                                             | DevOps & Technical Debt                                                |             |     |                 |         |                               |
 |   | [13]()                                             | Deployment & Containerization                             |             |     |                 |         |                               |  
+|   | [14]()                                             | Developer Productivity & Managing Your Career                             |             |     |                 |         |                               |  
 
