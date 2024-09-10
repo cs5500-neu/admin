@@ -149,13 +149,12 @@ Lab time is meant for helping students with the lab, not completing homework. I 
 No Facebook, no cell phones. Not only does it distract you, it distracts others!
 
 
-## Schedule
+## High Level Schedule
 
-|   | Module                                             | Topic                                                        | Assignments | Lab | Book Discussion | Project | Notes                         |                                                  
-|---|----------------------------------------------------|--------------------------------------------------------------|-------------|-----|-----------------|---------|-------------------------------|
-|   | [0]()                                              | Course Introduction                                          |             |     |                 |         | In Class Activity: Form teams |
+|   | Module                                             | Topic                                                        | Project | Notes  |                                                  
+|---|----------------------------------------------------|--------------------------------------------------------------|-------------|-----|
 |   | [1]()                                              | Software Development Lifecycle (SDLC) / Developing as a Team |             |     |                 |         |                               |
-|   | [2](https://course.ccs.neu.edu/cs5500sp17/req.pdf) | Requirements Gathering                                       |             |     |                 |         |                               |
+|   | [2](https://course.ccs.neu.edu/cs5500sp17/req.pdf) | Requirements                                       |             |     |                 |         |                               |
 |   | [3]()                                              | Design Principles                                            |             |     |                 |         |                               |
 |   | [4]()                                              | Storage Technologies                                         |             |     |                 |         |                               |
 |   | [5]()                                              | Design Patterns 1                                            |             |     |                 |         |                               |
