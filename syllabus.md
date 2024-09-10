@@ -155,15 +155,15 @@ No Facebook, no cell phones. Not only does it distract you, it distracts others!
 |---|----------------------------------------------------|--------------------------------------------------------------|-------------|-----|
 |   | [1]()                                              | Software Development Lifecycle (SDLC) / Developing as a Team |             |     |                 |         |                               |
 |   | [2](https://course.ccs.neu.edu/cs5500sp17/req.pdf) | Requirements                                       |             |     |                 |         |                               |
-|   | [3]()                                              | Design Principles                                            |             |     |                 |         |                               |
-|   | [4]()                                              | Storage Technologies                                         |             |     |                 |         |                               |
+|   | [3]()                                              | Modeling a System (UML/ERD)                                            |             |     |                 |         |                               |
+|   | [4]()                                              | Design Principles                                         |             |     |                 |         |                               |
 |   | [5]()                                              | Design Patterns 1                                            |             |     |                 |         |                               |
 |   | [6]()                                              | Design Patterns 2                                            |             |     |                 |         |                               |                                       
-|   | [7]()                                              | ReST API, Web Clients                                        |             |     |                 |         |                               |
-|   | [8]()                                              | Testing/Debugging                                            |             |     |                 |         |                               |
-|   | [9]()                                              | Program Analysis, Code Refactoring                           |             |     |                 |         |                               |
-|   | [10]()                                             | Software Architecture                                        |             |     |                 |         |                               |
-|   | [11]()                                             | Deployment/Containerization                                  |             |     |                 |         |                               |
-|   | [12]()                                             | DevOps, CI/CD                                                |             |     |                 |         |                               |
-|   | [13]()                                             | Tech Debt/Developer Productivity                             |             |     |                 |         |                               |  
+|   | [7]()                                              | Program Analysis & Code Refactoring                                        |             |     |                 |         |                               |
+|   | [8]()                                              | Testing & Debugging                                            |             |     |                 |         |                               |
+|   | [9]()                                              | API Design & Development                           |             |     |                 |         |                               |
+|   | [10]()                                             | UI/UX                                        |             |     |                 |         |                               |
+|   | [11]()                                             | Software Architecture                                  |             |     |                 |         |                               |
+|   | [12]()                                             | DevOps & Technical Debt                                                |             |     |                 |         |                               |
+|   | [13]()                                             | Deployment & Containerization                             |             |     |                 |         |                               |  
 
