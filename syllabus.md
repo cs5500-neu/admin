@@ -48,7 +48,7 @@ By the end of this course, you will:
 
 ## Resources
 
-All resources can be accessed for free using your academic email. Northeastern Libraries provides free access to [O'Reilly Online](https://www.oreilly.com/library-access/). Click 
+All resources can be accessed for free using your academic email. Northeastern Libraries provides free access to [O'Reilly Online](https://www.oreilly.com/library-access/). To learn more on how to access O'Reilly for free, [click this link](https://northeastern.libanswers.com/research/faq/381323). 
 
 All required and recommended textbooks can be acccessed using [this playlist](https://learning.oreilly.com/playlists/fe125c06-2637-4b38-8e08-fa30895b46f5). Or you can just search for the title on O'Reilly Online.
 
