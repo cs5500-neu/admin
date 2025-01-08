@@ -2,11 +2,11 @@
 
 **Course Number**: CS5500 Foundations of Software Engineering
 
-**Location**: 225 Terry Ave, Room 210, Seattle WA
+**Location**: 401 Terry Ave, Room 106, Seattle WA
 
-**Time**: Tuesdays, 6pm - 9:20pm unless otherwise noted
+**Time**: Wednesdays, 6pm - 9:20pm unless otherwise noted
 
-**Piazza**: [Forum Board](https://piazza.com/class/m0uoa1173ue4o5/), [Signup Link](https://piazza.com/northeastern/fall2024/cs550010fall24sea)
+**Piazza**: [Forum Board](https://piazza.com/class/m5nr4zkxxts3oo/), [Signup Link](https://piazza.com/northeastern/spring2025/cs550004)
 * Use Piazza instead of e-mail for all course related matters
 * This way all course staff can answer questions
 * Class as a whole can participate and learn in discussions
@@ -24,10 +24,10 @@
 
 **Teaching Assistants**:
 
-* Tu Lu lu.tu@northeastern.edu 
-* Huiru Wang yang.huir@northeastern.edu
-* Qiuying Zhuo zhuo.qi@northeastern.edu
-  
+* Deshpande, Dhanashri deshpande.dha@northeastern.edu
+* Ji, Ya(Jaelyn) ji.ya1@northeastern.edu
+* Qiao, Zheng qiao.zhe@northeastern.edu
+
 TA Hours and location listed on Piazza Under Resources/Staff
 
 ## Course Description
