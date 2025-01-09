@@ -25,7 +25,7 @@
 **Teaching Assistants**:
 
 * Deshpande, Dhanashri deshpande.dha@northeastern.edu
-* Ji, Ya(Jaelyn) ji.ya1@northeastern.edu
+* Luo, Frank luo.fr@northeastern.edu
 * Qiao, Zheng qiao.zhe@northeastern.edu
 
 TA Hours and location listed on Piazza Under Resources/Staff
