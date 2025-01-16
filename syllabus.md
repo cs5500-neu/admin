@@ -155,7 +155,7 @@ No Facebook, no cell phones. Not only does it distract you, it distracts others!
 |---|----------------------------------------------------|--------------------------------------------------------------|-------------|-----|
 |   | [1]()                                              | Software Development Lifecycle (SDLC) / Developing as a Team |             |     |                 |         |                               |
 |   | [2](https://course.ccs.neu.edu/cs5500sp17/req.pdf) | Requirements                                       |             |     |                 |         |                               |
-|   | [3]()                                              | Modeling a System (UML/ERD)                                            |             |     |                 |         |                               |
+|   | [3]()                                              | Design Documents                                            |             |     |                 |         |                               |
 |   | [4]()                                              | Design Principles                                         |             |     |                 |         |                               |
 |   | [5]()                                              | Design Patterns 1                                            |             |     |                 |         |                               |
 |   | [6]()                                              | Design Patterns 2                                            |             |     |                 |         |                               |                                       
