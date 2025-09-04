@@ -4,16 +4,16 @@
 
 **Location**: 401 Terry Ave, Room 106, Seattle WA
 
-**Time**: Wednesdays, 6pm - 9:20pm unless otherwise noted
+**Date and Time**: Mondays, 6:00pm - 9:20pm unless otherwise noted
 
-**Piazza**: [Forum Board](https://piazza.com/class/m5nr4zkxxts3oo/), [Signup Link](https://piazza.com/northeastern/spring2025/cs550004)
+**Piazza**: [Forum Board](https://piazza.com/northeastern/fall2025/cs550002fa25/home), [Signup Link](https://piazza.com/northeastern/fall2025/cs550002fa25)
 * Use Piazza instead of e-mail for all course related matters
 * This way all course staff can answer questions
 * Class as a whole can participate and learn in discussions
 * Code also formats better nicely pasted in
 * (Linking your GitHub is also easy for private posts)
 
-## Instructors
+## Staff
 
 **Instructor**: Mark Bonicillo
 
@@ -26,25 +26,51 @@
 
 * Deshpande, Dhanashri deshpande.dha@northeastern.edu
 * Luo, Frank luo.fr@northeastern.edu
-* Qiao, Zheng qiao.zhe@northeastern.edu
+* Xie, Wen xie.wen2@northeastern.edu
 
 TA Hours and location listed on Piazza Under Resources/Staff
 
 ## Course Description
 
-This course focuses on the fundamentals of developing software. We will learn how to develop software from start to finish through the framework of the software development lifecycle. This course is team project-based and much of the learning will be done through developing software as a team. We will work on an existing codebase (legacy code).
+Covers the foundations of software engineering, including software development life cycle models (e.g., waterfall, spiral, agile); requirements analysis; user-centered design; software design principles and patterns; testing (functional testing, structural testing, testing strategies); code refactoring and debugging; software architecture and design; and integration and deployment. Includes a course project where some of the software engineering methods (from requirements analysis to testing) are applied in a team-based setting. 
 
-**Registrar Description**: Covers the foundations of software engineering, including software development life cycle models (e.g., waterfall, spiral, agile); requirements analysis; user-centered design; software design principles and patterns; testing (functional testing, structural testing, testing strategies); code refactoring and debugging; software architecture and design; and integration and deployment. Includes a course project where some of the software engineering methods (from requirements analysis to testing) are applied in a team-based setting. Requires admission to MS program or completion of all transition courses.
-
+This course focuses on the fundamentals of developing software. We will learn how to develop software from start to finish through the framework of the software development lifecycle (SDLC). 
 
 ## Course Objectives
-By the end of this course, you will:
 
-* Learn about the Software Development Lifecycle.
-* Learn about effective design patterns and antipatterns.
-* Gain experience building larger software.
-* Gain experience writing tests.
-* Learn a few specific tools (e.g. git) that will be relevant to your professional career.
+By the end of this course, students will be able to:
+
+1. **Critically evaluate software development methodologies**  
+   - Analyze and compare software lifecycle models (e.g., Waterfall, Agile, Spiral) in terms of their applicability to different project contexts and constraints.
+
+2. **Conduct comprehensive requirements engineering**  
+   - Apply advanced techniques for eliciting, specifying, and validating software requirements, with attention to stakeholder needs and system constraints.
+
+3. **Design robust software architectures**  
+   - Utilize architectural patterns and design principles to create scalable, maintainable, and modular software systems.
+
+4. **Implement software using industry-standard practices**  
+   - Apply principles of version control, continuous integration, and test-driven development in the implementation of software solutions.
+
+5. **Apply rigorous testing strategies**  
+   - Design and execute functional, structural, and automated tests to ensure software correctness, reliability, and performance.
+
+6. **Refactor and debug complex systems**  
+   - Use systematic approaches to improve code quality and resolve defects in medium-to-large codebases.
+
+7. **Collaborate effectively in team-based projects**  
+   - Demonstrate proficiency in agile project management, peer code reviews, and collaborative development using tools like GitHub and issue trackers.
+
+8. **Communicate technical decisions and trade-offs**  
+   - Present design choices, testing strategies, and project outcomes clearly and professionally in both written and oral formats. Examples include Design Documents, sequence diagrams, entity relationship diagrams
+
+9. **Reflect on ethical and professional responsibilities**  
+   - Evaluate the societal impact of software systems and adhere to ethical standards in software engineering practice.
+
+10. **Integrate theory with practice through a capstone project**  
+    - Apply the full spectrum of software engineering techniques—from requirements to deployment—in a semester-long team project simulating real-world development.
+
+
 
 ## Resources
 
@@ -56,7 +82,7 @@ Most readings will focus on the following books: The Pragmatic Progammer, Code C
 
 ## Prerequisites
 
-Graduate level CS 5004 Minimum Grade of C
+Graduate level CS 5004 and CS 5010
 
 ## Academic Integrity and Non-Discrimination
 
@@ -68,6 +94,27 @@ Northeastern Academic Integrity Policy - You only cheat yourself if you are not 
 If you are caught cheating I have to report the violation. My official policy is you receive a 0 in the course. Always remember, if you use any external sources, you must cite them.
 
 Student Code of Conduct: Students and instructors will follow the following guide for how we conduct ourselves. This is to create a respectful environment where everyone can learn.
+
+## Artificial Intelligence
+
+In this course, you will learn critical knowledge and skills of software engineering. 
+While it may be possible to use commercial tools such as
+ChatGPT and Claude to complete assignments, doing so will cheat yourself of the needed
+learning for your future career. Given the prevalence of these tools and the temptation to
+use them, we will structure teaching, assignments, and assessments to appropriately use
+AI at this stage of your education.
+
+Excelling at computer and data sciences fundamentally requires learning by doing. You will 
+be taught the fundamentals of computer sciences and how to use AI tools
+productively for computer science tasks.
+AI tools are increasingly used for software development and will likely be part of your co-op experiences. 
+
+My commitment to you is that I will explicitly communicate when it is acceptable, and even advisable, to use
+AI as part of this course. I will also explicitly communicate when you should not use AI to
+complete assignments. The use of AI in Khoury classes will evolve as you move from
+learning the fundamentals to specifying, designing, and creating complex software
+systems. My commitment is to proactively integrate the use of AI tools as your learning
+progresses so that, upon co-op and graduation, you are performing at the top of your field.
 
 ## Make-Up Policy
 
@@ -95,13 +142,10 @@ Northeastern Univerity provides resources for student healthcare and general wel
 
 Please find below the grading distribution that will be used for this course. You will find the grade you earn in this course on Canvas.
 
-Participation: (10%) 
-
-Labs: (15%) (Each equally weighted) 
-
-Assignments: (15%) (Each equally weighted)
-
-Final Project: (60%)
+Participation: (5%) 
+Homework: (20%) 
+Mid-term Exam: (25%)
+Final Project: (50%)
 
 The grade system follows the University Grading System.
 
@@ -147,6 +191,7 @@ Course work completed after the date cannot be graded, as solutions will have be
 Lab time is meant for helping students with the lab, not completing homework. I have to prioritize lab first, then can answer homework questions.
 
 No Facebook, no cell phones. Not only does it distract you, it distracts others!
+
 
 
 ## High Level Schedule
