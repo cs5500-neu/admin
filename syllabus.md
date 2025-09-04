@@ -193,23 +193,21 @@ Lab time is meant for helping students with the lab, not completing homework. I 
 No Facebook, no cell phones. Not only does it distract you, it distracts others!
 
 
-
 ## High Level Schedule
 
-|   | Module                                             | Topic                                                        | Project | Notes  |                                                  
-|---|----------------------------------------------------|--------------------------------------------------------------|-------------|-----|
-|   | [1]()                                              | Software Development Lifecycle (SDLC) / Developing as a Team |             |     |                 |         |                               |
-|   | [2](https://course.ccs.neu.edu/cs5500sp17/req.pdf) | Requirements                                       |             |     |                 |         |                               |
-|   | [3]()                                              | Design Documents                                            |             |     |                 |         |                               |
-|   | [4]()                                              | Design Principles                                         |             |     |                 |         |                               |
-|   | [5]()                                              | Design Patterns 1                                            |             |     |                 |         |                               |
-|   | [6]()                                              | Design Patterns 2                                            |             |     |                 |         |                               |                                       
-|   | [7]()                                              | Program Analysis & Code Refactoring                                        |             |     |                 |         |                               |
-|   | [8]()                                              | Testing & Debugging                                            |             |     |                 |         |                               |
-|   | [9]()                                              | API Design & Development                           |             |     |                 |         |                               |
-|   | [10]()                                             | UI/UX                                        |             |     |                 |         |                               |
-|   | [11]()                                             | Software Architecture                                  |             |     |                 |         |                               |
-|   | [12]()                                             | DevOps & Technical Debt                                                |             |     |                 |         |                               |
-|   | [13]()                                             | Deployment & Containerization                             |             |     |                 |         |                               |  
-|   | [14]()                                             | Developer Productivity & Managing Your Career                             |             |     |                 |         |                               |  
-
+| Week | Topic | Practicum | Notes |
+|------|-------|---------|-------|
+| 0 | Software Development Lifecycle (SDLC) |  |  |
+| 1 | Agile Framework, Scrum | Implementing Scrum in your team |  |
+| 2 | Requirements Analysis | Writing Design Documents  |  |
+| 3 | Design Principles, SOLID, OOP | Version Control and Git Basics |  |
+| 4 | Design Patterns 1 | Gilded Rose Kata |  |
+| 5 | Design Patterns 2 | Monkey Patching Kata |  |
+| 6 | API Design and Development | The Design Recipe  |  |
+| 7 | Mid-Term Exam  |  |  |
+| 8 | Program Analysis & Code Refactoring | Project Introduction  |  |
+| 9 | Testing: Structural, Functional, Validation & Verification  | HTML Converter Kata | Project Time  |
+| 10 | Debugging: TRAFFIC Model | Using the Debugger Tool in your IDE  | Project Time |
+| 11 | DevOps & Technical Debt |  | Project Time |
+| 12 | Containerization | Docker and Kubernetes  | Project Time |
+| 13 | Project Presentation |  |  |
