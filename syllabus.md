@@ -142,10 +142,14 @@ Northeastern Univerity provides resources for student healthcare and general wel
 
 Please find below the grading distribution that will be used for this course. You will find the grade you earn in this course on Canvas.
 
-Participation: (5%) 
-Homework: (20%) 
-Mid-term Exam: (25%)
-Final Project: (50%)
+* Participation: (5%)
+
+* Homework: (20%) 
+
+* Mid-term Exam: (25%)
+
+* Final Project: (50%)
+
 
 The grade system follows the University Grading System.
 
