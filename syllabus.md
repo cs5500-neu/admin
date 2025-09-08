@@ -144,7 +144,7 @@ Please find below the grading distribution that will be used for this course. Yo
 
 * Participation: (5%)
 
-* Homework: (20%) 
+* Homework, Quizes, Labs: (20%) 
 
 * Mid-term Exam: (25%)
 
