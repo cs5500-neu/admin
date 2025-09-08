@@ -204,14 +204,14 @@ No Facebook, no cell phones. Not only does it distract you, it distracts others!
 | 0 | Software Development Lifecycle (SDLC) |  |  |
 | 1 | Agile Framework, Scrum | Implementing Scrum in your team |  |
 | 2 | Requirements Analysis | Writing Design Documents  |  |
-| 3 | Design Principles, SOLID, OOP | Version Control and Git Basics |  |
-| 4 | Design Patterns 1 | Gilded Rose Kata |  |
-| 5 | Design Patterns 2 | Monkey Patching Kata |  |
-| 6 | API Design and Development | The Design Recipe  |  |
+| 3 | Design Documents | The Design Recipe  |  |
+| 4 | Design Principles, SOLID, OOP | Version Control and Git Basics |  |
+| 5 | Design Patterns 1 | Gilded Rose Kata |  |
+| 6 | Design Patterns 2 | Monkey Patching Kata |  |
 | 7 | Mid-Term Exam  |  |  |
 | 8 | Program Analysis & Code Refactoring | Project Introduction  |  |
 | 9 | Testing: Structural, Functional, Validation & Verification  | HTML Converter Kata | Project Time  |
 | 10 | Debugging: TRAFFIC Model | Using the Debugger Tool in your IDE  | Project Time |
-| 11 | DevOps & Technical Debt |  | Project Time |
+| 11 | Introduction to DevOps | CI/CD pipelines, Blue/Green Deployments  | Project Time |
 | 12 | Containerization | Docker and Kubernetes  | Project Time |
 | 13 | Project Presentation |  |  |
