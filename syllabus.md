@@ -203,8 +203,8 @@ No Facebook, no cell phones. Not only does it distract you, it distracts others!
 |------|-------|---------|-------|
 | 0 | Software Development Lifecycle (SDLC) |  |  |
 | 1 | Agile Framework, Scrum | Implementing Scrum in your team |  |
-| 2 | Requirements Analysis | Writing Design Documents  |  |
-| 3 | Design Documents | The Design Recipe  |  |
+| 2 | Requirements Analysis | Writing User Stories  |  |
+| 3 | Design Documents | Writing Design Documents  |  |
 | 4 | Design Principles, SOLID, OOP | Version Control and Git Basics |  |
 | 5 | Design Patterns 1 | Gilded Rose Kata |  |
 | 6 | Design Patterns 2 | Monkey Patching Kata |  |
