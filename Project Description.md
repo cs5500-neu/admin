@@ -24,7 +24,7 @@ The Home Assistant has a limitation on its write-access functionality on various
 
 References:
 * [Home Assistnant API](https://developers.home-assistant.io/docs/api/rest)
-* [Home Assistant Entity Object]([https://developer.ecobee.com/home/developer/api/introduction/index.shtml](https://developers.home-assistant.io/docs/core/entity))
+* [Home Assistant Entity Object](https://developers.home-assistant.io/docs/core/entity)
 * [Home Assistant Driver — VOLTTRON 9.0.4 documentation](https://volttron.readthedocs.io/en/releases-9.x/agent-framework/driver-framework/home-assistant/HomeAssistantDriver.html#)
 * [Home Assistant Driver agent class](https://github.com/cs5500-neu/volttron/blob/main/services/core/PlatformDriverAgent/platform_driver/interfaces/home_assistant.py)
 
