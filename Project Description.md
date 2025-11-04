@@ -14,15 +14,19 @@ Our sponsor is the Department of Energy. They maintain a software application ca
 
 ## Project Goal
 
-Our goal for this project is to update the Ecobee Driver of Volttron which was last tested in 2019. The Ecobee API's have significantly changed since then. Our goals are three-fold:
+Our goal for this project is to update the [Home Assistant Driver of Volttron](https://volttron.readthedocs.io/en/releases-9.x/agent-framework/driver-framework/home-assistant/HomeAssistantDriver.html#). Home Assistant is an open-source application that allows a user to manage and control Home Assistant-compatible devices within their building (e.g. residential house).
 
-1. Update the Ecobee Driver to work with the latest Ecobee API's 
-2. Update any tests and documentation for Ecobee
-3. Stretch Goal: Add a new feature to the Ecobee Driver 
+The Home Assistant has a limitation on its write-access functionality on various devices. The documentation states that "Currently control(write access) is supported only for lights(state and brightness) and thermostats(state and temperature)." Our goal is to extend write-access functionality beyong lights and thermostats and support other devices. Our overall goal can be decomposed into three high level goals:
+
+1. Expand the write access functionality of the Home Assistant Driver to more devices 
+2. Update integration tests and documentation for Home Assistant Driver
+3. Stretch Goal: Test the expanded functionality on a real Home Assistant device (requires IP address and API Key) 
 
 References:
-* [ecobee API](https://developer.ecobee.com/home/developer/api/introduction/index.shtml)
-* [Ecobee Driver — VOLTTRON 9.0.4 documentation](https://volttron.readthedocs.io/en/main/agent-framework/driver-framework/ecobee/ecobee-web-driver.html) 
+* [Home Assistnant API](https://developers.home-assistant.io/docs/api/rest)
+* [Home Assistant Entity Object]([https://developer.ecobee.com/home/developer/api/introduction/index.shtml](https://developers.home-assistant.io/docs/core/entity))
+* [Home Assistant Driver — VOLTTRON 9.0.4 documentation](https://volttron.readthedocs.io/en/releases-9.x/agent-framework/driver-framework/home-assistant/HomeAssistantDriver.html#)
+* [Home Assistant Driver agent class](https://github.com/cs5500-neu/volttron/blob/main/services/core/PlatformDriverAgent/platform_driver/interfaces/home_assistant.py)
 
 ## What is Volttron
 
