@@ -36,7 +36,7 @@ NOTE: Instructions for Apple Silcon Mac and Virtual Box version 7.2.4. If using 
 1. Expand `Specify Virtual Hardware` tab, allocate at least 4096 MB (4 GB) for Base Memory (i.e. RAM) and 4 CPU cores for smooth performance.
 1. Click Finish
 1. Right click your new VM on the VirtualBox console and select `Settings`
-1. Click `Display` on the right side, under `Scren`, set `Video Memory to maximum limit (usually 128 MB)`
+1. Click `Display` on the right side, under `Screen`, set `Video Memory to maximum limit (usually 128 MB)`
 1. Change`Graphics Controller` to `VBoxSVGA`
 1. Click `OK`
 1. Start the VM. It should open a new window
