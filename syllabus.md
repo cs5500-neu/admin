@@ -208,9 +208,9 @@ No Facebook, no cell phones. Not only does it distract you, it distracts others!
 | 6 Oct | 4 | Design Principles, SOLID, OOP | Version Control, Git Basics, Handling Merge |  |
 | 13 Oct | 5 | Design Patterns 1 | Gilded Rose Kata (Take Home) | HOLIDAY   |
 | 20 Oct | 6 | Design Patterns 2 | Monkey Patching Kata | Lecture 5 and 6 both covered  |
-| 27 Oct | - | Mid-Term Exam  |  |  |
-| 3 Nov | 7 | Program Analysis & Code Refactoring | Project Introduction  | MAKEUP Midterm  |
-| 10 Nov | 8 | Testing: Structural, Functional, Validation & Verification  | HTML Converter Kata | Project Time  |
+| 27 Oct | - | ~~Mid-Term Exam~~  |  |  |
+| 3 Nov | 7 | Program Analysis & Code Refactoring | Project Introduction  | Mid Term Exam  |
+| 10 Nov | 8 | Testing: Structural, Functional, Validation & Verification  | ~~HTML Converter Kata~~ MAKEUP Midterm | Project Time  |
 | 17 Nov | 9 | Debugging: TRAFFIC Model | Using the Debugger Tool in your IDE  | Project Time |
 | 24 Nov | 10 | Introduction to DevOps | CI/CD pipelines, Blue/Green Deployments  | Project Time |
 | 1 Dec | 11 | Containerization | Docker and Kubernetes  | Project Time |
