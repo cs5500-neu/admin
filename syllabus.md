@@ -6,7 +6,7 @@
 
 **Date and Time**: Mondays, 6:00pm - 9:20pm unless otherwise noted
 
-**Piazza**: [Forum Board](https://piazza.com/northeastern/fall2025/cs550002fa25/home), [Signup Link](https://piazza.com/northeastern/fall2025/cs550002fa25)
+**Piazza**: [Forum Board](https://piazza.com/northeastern/spring2026/cs550001sp26/home), [Signup Link](https://piazza.com/northeastern/spring2026/cs550001sp26)
 * Use Piazza instead of e-mail for all course related matters
 * This way all course staff can answer questions
 * Class as a whole can participate and learn in discussions
