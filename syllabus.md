@@ -208,8 +208,8 @@ No Facebook, no cell phones. Not only does it distract you, it distracts others!
 | 9 Mar | 5 | Design Patterns 1 | Gilded Rose Kata (Take Home) | HOLIDAY   |
 | 16 Mar | 6 | Design Patterns 2 | Monkey Patching Kata | Lecture 5 and 6 both covered  |
 | 23 Mar | - | Mid-Term Exam  |  |  |
-| 30 Mar | 7 | Program Analysis & Code Refactoring | Project Introduction  | Mid Term Exam  |
-| 6 Apr | 8 | Testing: Structural, Functional, Validation & Verification  | ~~HTML Converter Kata~~ MAKEUP Midterm | Project Time  |
+| 30 Mar | 7 | Program Analysis & Code Refactoring | Project Introduction  |  |
+| 6 Apr | 8 | Testing: Structural, Functional, Validation & Verification  | ~~HTML Converter Kata~~ | Project Time  |
 | 13 Apr | 9 | Debugging: TRAFFIC Model | Using the Debugger Tool in your IDE  | Project Time |
 | 20 Apr | - | Finals Week | Project Presentation & Demo  |  |
 |  | 10 | Introduction to DevOps | CI/CD pipelines, Blue/Green Deployments  | Project Time |
