@@ -137,6 +137,12 @@ Students who do well in this course tend to show up to the course consistently, 
 
 Northeastern Univerity provides resources for student healthcare and general wellness. Please visit Northeastern Health and Counseling Services for your needs. While university can be difficult at times, please do take care of yourself. It is okay to seek help and take a break. Please communicate with your instructor, advisor, and officials at the university if you just need a mental break.
 
+## Religious Accommodations
+
+For information on the university’s procedures for requesting a reasonable accommodation for a religious holiday, please visit
+
+https://studentlifeseattle.sites.northeastern.edu/seattle-campus-resources/
+
 ## Assessment/Course Policies
 
 Please find below the grading distribution that will be used for this course. You will find the grade you earn in this course on Canvas.
