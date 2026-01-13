@@ -81,7 +81,7 @@ Most readings will focus on the following books: The Pragmatic Progammer, Code C
 
 ## Prerequisites
 
-Graduate level CS 5004 and CS 5010
+Graduate level CS 5004
 
 ## Academic Integrity and Non-Discrimination
 
