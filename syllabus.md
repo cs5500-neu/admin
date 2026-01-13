@@ -200,17 +200,18 @@ No Facebook, no cell phones. Not only does it distract you, it distracts others!
 
 | Week | Module | Topic | Practicum | Notes |
 | ------ | ------|-------|---------|-------|
-| 8 Sep | 0 | Software Development Lifecycle (SDLC) |  |  |
-| 15 Sep | 1 | Agile Framework, Scrum | ~~Implementing Scrum in your team~~ |  |
-| 22 Sep | 2 | Requirements Analysis | ~~Writing User Stories~~  |  |
-| 29 Sep | 3 | Design Documents | Writing Design Documents  |  |
-| 6 Oct | 4 | Design Principles, SOLID, OOP | Version Control, Git Basics, Handling Merge |  |
-| 13 Oct | 5 | Design Patterns 1 | Gilded Rose Kata (Take Home) | HOLIDAY   |
-| 20 Oct | 6 | Design Patterns 2 | Monkey Patching Kata | Lecture 5 and 6 both covered  |
-| 27 Oct | - | ~~Mid-Term Exam~~  |  |  |
-| 3 Nov | 7 | Program Analysis & Code Refactoring | Project Introduction  | Mid Term Exam  |
-| 10 Nov | 8 | Testing: Structural, Functional, Validation & Verification  | ~~HTML Converter Kata~~ MAKEUP Midterm | Project Time  |
-| 17 Nov | 9 | Debugging: TRAFFIC Model | Using the Debugger Tool in your IDE  | Project Time |
-| 24 Nov | 10 | Introduction to DevOps | CI/CD pipelines, Blue/Green Deployments  | Project Time |
-| 1 Dec | 11 | Containerization | Docker and Kubernetes  | Project Time |
-| 8 Dec | 12 | Special Topic: AI and SDLC |  | Guest Speaker (tentative), Project Demo Video due |
+| 12 Jan | 0 | Software Development Lifecycle (SDLC) |  |  |
+| 26 Jan | 1 | Agile Framework, Scrum | ~~Implementing Scrum in your team~~ |  |
+| 2 Feb | 2 | Requirements Analysis | ~~Writing User Stories~~  |  |
+| 9 Feb | 3 | Design Documents | Writing Design Documents  |  |
+| 23 Feb | 4 | Design Principles, SOLID, OOP | Version Control, Git Basics, Handling Merge |  |
+| 9 Mar | 5 | Design Patterns 1 | Gilded Rose Kata (Take Home) | HOLIDAY   |
+| 16 Mar | 6 | Design Patterns 2 | Monkey Patching Kata | Lecture 5 and 6 both covered  |
+| 23 Mar | - | Mid-Term Exam  |  |  |
+| 30 Mar | 7 | Program Analysis & Code Refactoring | Project Introduction  | Mid Term Exam  |
+| 6 Apr | 8 | Testing: Structural, Functional, Validation & Verification  | ~~HTML Converter Kata~~ MAKEUP Midterm | Project Time  |
+| 13 Apr | 9 | Debugging: TRAFFIC Model | Using the Debugger Tool in your IDE  | Project Time |
+| 20 Apr | - | Finals Week | Project Presentation & Demo  |  |
+|  | 10 | Introduction to DevOps | CI/CD pipelines, Blue/Green Deployments  | Project Time |
+|  | 11 | Containerization | Docker and Kubernetes  | Project Time |
+|  | 12 | Special Topic: AI and SDLC |  | Guest Speaker (tentative), Project Demo Video due |
