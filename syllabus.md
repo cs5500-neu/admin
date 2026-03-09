@@ -211,9 +211,9 @@ No Facebook, no cell phones. Not only does it distract you, it distracts others!
 | 2 Feb | 2 | Requirements Analysis | ~~Writing User Stories~~  |  |
 | 9 Feb | 3 | Design Documents | Writing Design Documents  |  |
 | 23 Feb | 4 | Design Principles, SOLID, OOP | Version Control, Git Basics, Handling Merge |  |
-| 9 Mar | 5 | Design Patterns 1 | Gilded Rose Kata (Take Home) | HOLIDAY   |
+| 9 Mar | 5 | Design Patterns 1 | Gilded Rose Kata (Take Home) | ~~HOLIDAY~~   |
 | 16 Mar | 6 | Design Patterns 2 | Monkey Patching Kata | Lecture 5 and 6 both covered  |
-| 23 Mar | - | Mid-Term Exam  |  |  |
+| 23 Mar | - | ~~Mid-Term Exam~~  |  |  |
 | 30 Mar | 7 | Program Analysis & Code Refactoring | Project Introduction  |  |
 | 6 Apr | 8 | Testing: Structural, Functional, Validation & Verification  | ~~HTML Converter Kata~~ | Project Time  |
 | 13 Apr | 9 | Debugging: TRAFFIC Model | Using the Debugger Tool in your IDE  | Project Time |
