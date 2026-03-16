@@ -211,13 +211,12 @@ No Facebook, no cell phones. Not only does it distract you, it distracts others!
 | 2 Feb | 2 | Requirements Analysis | ~~Writing User Stories~~  |  |
 | 9 Feb | 3 | Design Documents | Writing Design Documents  |  |
 | 23 Feb | 4 | Design Principles, SOLID, OOP | Version Control, Git Basics, Handling Merge |  |
-| 9 Mar | 5 | Design Patterns 1 | Gilded Rose Kata (Take Home) | ~~HOLIDAY~~   |
-| 16 Mar | 6 | Design Patterns 2 | Monkey Patching Kata | Lecture 5 and 6 both covered  |
-| 23 Mar | - | ~~Mid-Term Exam~~  |  |  |
-| 30 Mar | 7 | Program Analysis & Code Refactoring | Project Introduction  |  |
-| 6 Apr | 8 | Testing: Structural, Functional, Validation & Verification  | ~~HTML Converter Kata~~ | Project Time  |
+| 9 Mar | - | ~~Design Patterns 1~~ | ~~Gilded Rose Kata (Take Home)~~ | ~~HOLIDAY~~   |
+| 16 Mar | 5 | Design Patterns 1 | Gilded Rose Kata Part II | Project Time   |
+| 23 Mar | 6 | Design Patterns 2 | Gilded Rose Kata Part III | Project Time  |
+| 30 Mar | 7 | Program Analysis & Code Refactoring | Gilded Rose Kata Extended | Project Time |
+| 6 Apr | 8 | Testing: Structural, Functional, Validation & Verification  | Test Lab | Project Time  |
 | 13 Apr | 9 | Debugging: TRAFFIC Model | Using the Debugger Tool in your IDE  | Project Time |
-| 20 Apr | - | Finals Week | Project Presentation & Demo  |  |
+| 20 Apr | - | Finals Week |  Special Topic: AI and SDLC  | Project Presentation & Demo |
 |  | 10 | Introduction to DevOps | CI/CD pipelines, Blue/Green Deployments  | Project Time |
 |  | 11 | Containerization | Docker and Kubernetes  | Project Time |
-|  | 12 | Special Topic: AI and SDLC |  | Guest Speaker (tentative), Project Demo Video due |
