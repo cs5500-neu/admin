@@ -151,9 +151,7 @@ Please find below the grading distribution that will be used for this course. Yo
 
 * Labs/Practicums: (20%) 
 
-* Mid-term Exam: (25%)
-
-* Final Project: (50%)
+* Final Project: (75%)
 
 
 The grade system follows the University Grading System.
