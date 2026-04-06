@@ -214,6 +214,6 @@ No Facebook, no cell phones. Not only does it distract you, it distracts others!
 | 23 Mar | 6 | Design Patterns 2 | Gilded Rose Kata Part III | Project Time  |
 | 30 Mar | 7 | Program Analysis & Code Refactoring | ~~Gilded Rose Kata Extended~~ | Project Time |
 | 6 Apr | 8, 9 | Testing: Structural, Functional, Validation & Verification & Debugging: TRAFFIC Model | Testing/Debugging Lab | Project Time  |
-| 13 Apr | 10 | Introduction to DevOps | CI/CD pipelines  | Project Time |
-| 20 Apr | - | Finals Week |  Special Topic: AI and SDLC  | Project Presentation & Demo |
+| 13 Apr | 10 | Introduction to DevOps/Special Topic: AI and SDLC | CI/CD pipelines  | Project Presentation & Demo |
+| 20 Apr | - | ~~Finals Week~~ |  ~~Special Topic: AI and SDLC~~  | ~~Project Presentation & Demo~~ |
 ~~|  | 11 | Containerization | Docker and Kubernetes  | Project Time |~~
